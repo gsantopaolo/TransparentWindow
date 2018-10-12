@@ -1,0 +1,1 @@
+C:\Dev\TransparentWindow\TransparentWindow.UWP\TransparentWindow.UWP.csproj;x86
